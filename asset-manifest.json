@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.fa88e389.chunk.css",
-    "main.js": "/static/js/main.f4172db6.chunk.js",
-    "main.js.map": "/static/js/main.f4172db6.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.212f1880.js",
-    "runtime-main.js.map": "/static/js/runtime-main.212f1880.js.map",
-    "static/js/2.8ef3401b.chunk.js": "/static/js/2.8ef3401b.chunk.js",
-    "static/js/2.8ef3401b.chunk.js.map": "/static/js/2.8ef3401b.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.fa88e389.chunk.css.map": "/static/css/main.fa88e389.chunk.css.map",
-    "static/js/2.8ef3401b.chunk.js.LICENSE.txt": "/static/js/2.8ef3401b.chunk.js.LICENSE.txt"
+    "main.css": "/github-page/static/css/main.fa88e389.chunk.css",
+    "main.js": "/github-page/static/js/main.f4172db6.chunk.js",
+    "main.js.map": "/github-page/static/js/main.f4172db6.chunk.js.map",
+    "runtime-main.js": "/github-page/static/js/runtime-main.2307b52d.js",
+    "runtime-main.js.map": "/github-page/static/js/runtime-main.2307b52d.js.map",
+    "static/js/2.8ef3401b.chunk.js": "/github-page/static/js/2.8ef3401b.chunk.js",
+    "static/js/2.8ef3401b.chunk.js.map": "/github-page/static/js/2.8ef3401b.chunk.js.map",
+    "index.html": "/github-page/index.html",
+    "static/css/main.fa88e389.chunk.css.map": "/github-page/static/css/main.fa88e389.chunk.css.map",
+    "static/js/2.8ef3401b.chunk.js.LICENSE.txt": "/github-page/static/js/2.8ef3401b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.212f1880.js",
+    "static/js/runtime-main.2307b52d.js",
     "static/js/2.8ef3401b.chunk.js",
     "static/css/main.fa88e389.chunk.css",
     "static/js/main.f4172db6.chunk.js"
